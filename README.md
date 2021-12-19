@@ -6,6 +6,7 @@ so you may have to reinstall these modules if you want to run the game.
 
 # Screenshots
 
-
+![](https://github.com/KrishnarajT/Space-Wars-Ship-thing/blob/master/Screenshots/Space%20Wars.png)
+![](https://github.com/KrishnarajT/Space-Wars-Ship-thing/blob/master/Screenshots/Space%20Wars%20(1).png)
 # Credits
 Made from the Tutorial by Tech With Tim
